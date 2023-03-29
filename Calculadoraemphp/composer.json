@@ -1,0 +1,11 @@
+{
+    "name": "admin/calculadoraemphp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "APP\\" : "src/"
+        }
+},
+    "require" : {}
+
+    }
